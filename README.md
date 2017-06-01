@@ -1,5 +1,5 @@
-# hello-world
+# Hello, World!
 
-first repository
+First Repository
 
-My name is Brandon. I am here to learn more about software and web development.
+My name is Brandon. I'm here to learn more about software and web development.
